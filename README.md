@@ -30,8 +30,7 @@ Hi there! I'm Rishitha — a data-driven problem solver passionate about turning
 
 📊 Let’s connect and create something impactful together!
 📫 **Email**: rishitha1697@gmail.com  
-🌐 **Portfolio**: *Coming soon*  
-🔗 **LinkedIn**: [linkedin.com/in/rishitha1697](https://www.linkedin.com/in/rishitha1697)
+
 
 
 
