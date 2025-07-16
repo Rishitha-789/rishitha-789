@@ -27,7 +27,6 @@ Hi there! I'm Rishitha — a data-driven problem solver passionate about turning
 ---
 
 
----
 
 📊 Let’s connect and create something impactful together!
 📫 **Email**: rishitha1697@gmail.com  
