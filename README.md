@@ -28,17 +28,4 @@ Hi there! I'm Rishitha — a data-driven problem solver passionate about turning
 🔗 **LinkedIn**: [linkedin.com/in/rishitha1697](https://www.linkedin.com/in/rishitha1697)
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishitha1697&show_icons=true&theme=radical" alt="Rishitha's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishitha1697&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitha1697&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
