@@ -26,22 +26,6 @@ Hi there! I'm Rishitha — a data-driven problem solver passionate about turning
 
 ---
 
-### 🤝 Let’s Connect!
-
-<p align="left">
-  <a href="mailto:rishitha1697@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/rishitha1697" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge&logo=aboutdotme&logoColor=black" alt="Portfolio" />
-  </a>
-</p>
-
 
 ---
 
