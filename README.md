@@ -95,7 +95,7 @@ Predict which customers are likely to leave using logistic regression, decision 
 Time series forecasting using ARIMA, Prophet, and LSTM models.  
 *Tech:* Python, statsmodels, TensorFlow, Matplotlib  
 
-🔹 **[Fraud Detection](https://github.com/rishitha/fraud-detection)**  
+🔹 **[Fraud Detection](https://github.com/Rishitha-789/fraud-detection)**  
 Detect fraudulent transactions using SMOTE + RandomForest, with ROC curve and precision-recall analysis.  
 *Tech:* scikit-learn, imbalanced-learn, Pandas  
 
