@@ -104,15 +104,15 @@ Detect fraudulent transactions using manual undersampling and RandomForest, with
 
 ## 📊 Data Analysis & Visualization
 
-🔹 **[COVID-19 EDA](https://github.com/rishitha/covid19-eda)**  
+🔹 **[COVID-19 EDA](https://github.com/Rishitha-789/covid19-eda)**  
 Uncovered trends and mortality factors using global COVID data.  
 *Tech:* Python, Pandas, Seaborn, Plotly  
 
-🔹 **[Airbnb Listings Dashboard](https://github.com/rishitha/airbnb-dashboard)**  
+🔹 **[Airbnb Listings Dashboard](https://github.com/Rishitha-789/airbnb-dashboard)**  
 Built an interactive dashboard for exploring Airbnb prices across cities.  
 *Tech:* Power BI, SQL, DAX  
 
-🔹 **[Data Cleaning Pipeline](https://github.com/rishitha/data-cleaning-pipeline)**  
+🔹 **[Data Cleaning Pipeline](https://github.com/Rishitha-789/Data-Cleaning-Pipeline)**  
 End-to-end script to clean missing values, outliers, and inconsistent formats.  
 *Tech:* Python, NumPy, Pandas  
 
@@ -128,7 +128,7 @@ Convolutional Neural Network to classify handwritten digits (MNIST).
 Real-time face recognition with PCA + KNN (and later, CNN integration).  
 *Tech:* OpenCV, Scikit-learn, Haar Cascades  
 
-🔹 **[RNN Language Modeling](https://github.com/rishitha/language-model-rnn)**  
+🔹 **[RNN Language Modeling](https://github.com/Rishitha-789/RNN-Language-Modeling)**  
 Trained an RNN to generate sequences and predict next words in a corpus.  
 *Tech:* PyTorch, LSTM  
 
