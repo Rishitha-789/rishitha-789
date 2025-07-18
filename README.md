@@ -156,9 +156,9 @@ A rule-based chatbot for querying financial short position data using keyword ma
 Extracted, transformed, and loaded multi-source development data (GDP, population, electricity access) from CSV and JSON files into a SQLite database. 
 *Tech:* Python, Pandas, SQLite, SQL
 
-🔹 **[Data Warehouse Design](https://github.com/rishitha/data-warehouse-project)**  
+🔹 **[Data Warehouse Design](https://github.com/Rishitha-789/Data-Warehouse-Design)**  
 Built a star schema model and queried it using complex joins and aggregations.  
-*Tech:* PostgreSQL, ERD, DBT  
+*Tech:* MySQL, ERD, DBT  
 
 🔹 **[Big Data Processing with Spark](https://github.com/rishitha/spark-bigdata-pipeline)**  
 Processed and analyzed 1M+ rows of taxi trip data.  
