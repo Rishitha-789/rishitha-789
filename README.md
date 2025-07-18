@@ -151,9 +151,9 @@ A rule-based and intent-recognition chatbot using NLP pipelines.
 
 ## ⚙️ Data Engineering & Pipelines
 
-🔹 **[ETL Pipeline Automation](https://github.com/rishitha/etl-pipeline)**  
-Extracted, transformed, and loaded retail data from CSVs into a PostgreSQL DB.  
-*Tech:* Python, Airflow, SQLAlchemy  
+🔹 **[ETL Pipeline Automation](https://github.com/Rishitha-789/etl-pipeline)**  
+Extracted, transformed, and loaded multi-source development data (GDP, population, electricity access) from CSV and JSON files into a SQLite database. 
+*Tech:* Python, Pandas, SQLite, SQL
 
 🔹 **[Data Warehouse Design](https://github.com/rishitha/data-warehouse-project)**  
 Built a star schema model and queried it using complex joins and aggregations.  
