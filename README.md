@@ -123,7 +123,7 @@ End-to-end script to clean missing values, outliers, and inconsistent formats.
 Convolutional Neural Network to classify handwritten digits (MNIST).  
 *Tech:* Keras, TensorFlow, OpenCV  
 
-🔹 **[Face Recognition System](https://github.com/rishitha/face-recognition-opencv)**  
+🔹 **[Face Recognition System](https://github.com/Rishitha-789/OpenCV-Face-Recognition)**  
 Real-time face recognition with PCA + KNN (and later, CNN integration).  
 *Tech:* OpenCV, Scikit-learn, Haar Cascades  
 
