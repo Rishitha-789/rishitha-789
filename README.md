@@ -135,9 +135,9 @@ Trained an RNN to generate sequences and predict next words in a corpus.
 
 ## 🗣️ Natural Language Processing (NLP)
 
-🔹 **[Text Sentiment Analyzer](https://github.com/rishitha/sentiment-analysis)**  
-Predict sentiment from user reviews using TF-IDF + Logistic Regression.  
-*Tech:* scikit-learn, NLTK, Flask  
+🔹 **[Text Sentiment Analyzer](https://github.com/Rishitha-789/Text-Sentiment-Analyzer)**  
+Predict sentiment from tweets using TF-IDF with SVM and Naive Bayes classifiers. Includes VADER sentiment scoring and interactive widgets for tweet-level insights.  
+*Tech:* scikit-learn, NLTK, Pandas, Matplotlib, Seaborn, ipywidgets
 
 🔹 **[Named Entity Recognition](https://github.com/rishitha/ner-nlp)**  
 Extract named entities (people, orgs, locations) from raw text using spaCy.  
