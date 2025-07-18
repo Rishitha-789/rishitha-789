@@ -119,7 +119,7 @@ End-to-end script to clean missing values, outliers, and inconsistent formats.
 
 ## 🧠 Deep Learning Projects
 
-🔹 **[Image Classifier (CNN)](https://github.com/rishitha/cnn-image-classifier)**  
+🔹 **[Image Classifier (CNN)](https://github.com/Rishitha-789/Final-Project---DSCI-619---Image-Classification-Sentiment-Analysis/blob/main/FinalProject_Load_Data_1.html)**  
 Convolutional Neural Network to classify handwritten digits (MNIST).  
 *Tech:* Keras, TensorFlow, OpenCV  
 
