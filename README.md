@@ -143,9 +143,9 @@ Predict sentiment from tweets using TF-IDF with SVM and Naive Bayes classifiers.
 Extract named entities (people, orgs, locations) from raw text using spaCy.  
 *Tech:* spaCy, Pandas, Regex  
 
-🔹 **[Custom Chatbot](https://github.com/rishitha/nlp-chatbot)**  
-A rule-based and intent-recognition chatbot using NLP pipelines.  
-*Tech:* Rasa, NLTK, Python  
+🔹 **[Custom Chatbot](https://github.com/Rishitha-789/chatbot)**  
+A rule-based chatbot for querying financial short position data using keyword matching, regex, and SQL-backed insights. Supports country trends, comparisons, timeliness, and top shorted stocks.  
+*Tech:* Python, pandas, SQLite, regex, NLTK  
 
 ---
 
