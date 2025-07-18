@@ -91,9 +91,9 @@ This repository is a curated collection of my work across domains—each project
 Predict which customers are likely to leave using logistic regression, decision trees, and ensemble models.  
 *Tech:* Python, scikit-learn, Pandas, SHAP  
 
-🔹 **[Stock Price Forecasting](https://github.com/rishitha/stock-price-prediction)**  
-Time series forecasting using ARIMA, Prophet, and LSTM models.  
-*Tech:* Python, statsmodels, TensorFlow, Matplotlib  
+🔹 **[Stock Price Forecasting](https://github.com/Rishitha-789/-Stock-Price-Forecasting)**  
+Time series forecasting for stock prices using ARIMA, Facebook Prophet, and LSTM models. Includes a Flask-based web app with HTML/CSS frontend for user interaction.
+** Tech:** Python, Flask, HTML/CSS, yfinance, statsmodels, Prophet, TensorFlow, Matplotlib
 
 🔹 **[Fraud Detection](https://github.com/Rishitha-789/fraud-detection)**  
 Detect fraudulent transactions using manual undersampling and RandomForest, with ROC curve and precision-recall analysis.
