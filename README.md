@@ -32,10 +32,6 @@ Hi there! I'm Rishitha — a data-driven problem solver passionate about turning
 📫 **Email**: rishitha1697@gmail.com  
 
 
-
-
-
----
 ---
 
 ### 🤝 Let’s Connect!
@@ -51,6 +47,100 @@ Hi there! I'm Rishitha — a data-driven problem solver passionate about turning
 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-th
+
+    ---
+# 👩‍💻 Rishitha's Data Science Portfolio
+
+Welcome to my Data Science portfolio! I'm Rishitha, a passionate lifelong learner and problem solver, focused on turning **data into impact** through Machine Learning, AI, and analytics.
+
+This repository is a curated collection of my work across domains—each project reflects both a technical learning milestone and a step toward solving real-world challenges using data.
+
+---
+
+## 🔬 Machine Learning Projects
+
+🔹 **[Customer Churn Prediction](https://github.com/rishitha/customer-churn-prediction)**  
+Predict which customers are likely to leave using logistic regression, decision trees, and ensemble models.  
+*Tech:* Python, scikit-learn, Pandas, SHAP  
+
+🔹 **[Stock Price Forecasting](https://github.com/rishitha/stock-price-prediction)**  
+Time series forecasting using ARIMA, Prophet, and LSTM models.  
+*Tech:* Python, statsmodels, TensorFlow, Matplotlib  
+
+🔹 **[Fraud Detection](https://github.com/rishitha/fraud-detection)**  
+Detect fraudulent transactions using SMOTE + RandomForest, with ROC curve and precision-recall analysis.  
+*Tech:* scikit-learn, imbalanced-learn, Pandas  
+
+---
+
+## 📊 Data Analysis & Visualization
+
+🔹 **[COVID-19 EDA](https://github.com/rishitha/covid19-eda)**  
+Uncovered trends and mortality factors using global COVID data.  
+*Tech:* Python, Pandas, Seaborn, Plotly  
+
+🔹 **[Airbnb Listings Dashboard](https://github.com/rishitha/airbnb-dashboard)**  
+Built an interactive dashboard for exploring Airbnb prices across cities.  
+*Tech:* Power BI, SQL, DAX  
+
+🔹 **[Data Cleaning Pipeline](https://github.com/rishitha/data-cleaning-pipeline)**  
+End-to-end script to clean missing values, outliers, and inconsistent formats.  
+*Tech:* Python, NumPy, Pandas  
+
+---
+
+## 🧠 Deep Learning Projects
+
+🔹 **[Image Classifier (CNN)](https://github.com/rishitha/cnn-image-classifier)**  
+Convolutional Neural Network to classify handwritten digits (MNIST).  
+*Tech:* Keras, TensorFlow, OpenCV  
+
+🔹 **[Face Recognition System](https://github.com/rishitha/face-recognition-opencv)**  
+Real-time face recognition with PCA + KNN (and later, CNN integration).  
+*Tech:* OpenCV, Scikit-learn, Haar Cascades  
+
+🔹 **[RNN Language Modeling](https://github.com/rishitha/language-model-rnn)**  
+Trained an RNN to generate sequences and predict next words in a corpus.  
+*Tech:* PyTorch, LSTM  
+
+---
+
+## 🗣️ Natural Language Processing (NLP)
+
+🔹 **[Text Sentiment Analyzer](https://github.com/rishitha/sentiment-analysis)**  
+Predict sentiment from user reviews using TF-IDF + Logistic Regression.  
+*Tech:* scikit-learn, NLTK, Flask  
+
+🔹 **[Named Entity Recognition](https://github.com/rishitha/ner-nlp)**  
+Extract named entities (people, orgs, locations) from raw text using spaCy.  
+*Tech:* spaCy, Pandas, Regex  
+
+🔹 **[Custom Chatbot](https://github.com/rishitha/nlp-chatbot)**  
+A rule-based and intent-recognition chatbot using NLP pipelines.  
+*Tech:* Rasa, NLTK, Python  
+
+---
+
+## ⚙️ Data Engineering & Pipelines
+
+🔹 **[ETL Pipeline Automation](https://github.com/rishitha/etl-pipeline)**  
+Extracted, transformed, and loaded retail data from CSVs into a PostgreSQL DB.  
+*Tech:* Python, Airflow, SQLAlchemy  
+
+🔹 **[Data Warehouse Design](https://github.com/rishitha/data-warehouse-project)**  
+Built a star schema model and queried it using complex joins and aggregations.  
+*Tech:* PostgreSQL, ERD, DBT  
+
+🔹 **[Big Data Processing with Spark](https://github.com/rishitha/spark-bigdata-pipeline)**  
+Processed and analyzed 1M+ rows of taxi trip data.  
+*Tech:* PySpark, Hadoop, Google Colab  
+
+---
+
+## 🌟 About Me
+
+- 🎓 Currently enhancing my AI/ML
+
 
 
 
