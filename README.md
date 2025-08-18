@@ -1,6 +1,6 @@
 # 👩‍💻 Rishitha Srivastav
 
-**Data Scientist | Machine Learning Enthusiast | Analytics Professional**
+**Data Science | Machine Learning Enthusiast | Analytics Professional**
 
 Hi there! I'm Rishitha — a data-driven problem solver passionate about turning complex datasets into actionable insights. With a Master's in Data Science from Maryville University and 3+ years of experience in analytics and machine learning, I specialize in transforming business challenges into scalable data solutions. 
 
