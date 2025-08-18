@@ -35,8 +35,7 @@ Hi there! I'm Rishitha — a data-driven problem solver passionate about turning
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Other Relevant Skills
-- **Predictive Modeling**: Regression, Classification, Time Series Forecasting  
-- **Big Data Technologies**: Hadoop, Spark (familiarity)  
+- **Predictive Modeling**: Regression, Classification, Time Series Forecasting   
 - **Data Engineering**: ETL Pipelines, SQL Data Warehousing  
 - **Cloud Platforms**: AWS, GCP (basics)
 
