@@ -1,8 +1,8 @@
 # 👩‍💻 Rishitha Srivastav
 
-**Data Science | Machine Learning Enthusiast | Analytics Professional**
+**Data Analyst|Analytics Professional**
 
-Hi there! I'm Rishitha — a data-driven problem solver passionate about turning complex datasets into actionable insights. With a Master's in Data Science from Maryville University and 3+ years of experience in analytics and machine learning, I specialize in transforming business challenges into scalable data solutions. 
+Hi there! I'm Rishitha — a data-driven problem solver passionate about turning complex datasets into actionable insights. With a Master's in Data Science from Maryville University and 3+ years of experience in analytics , I specialize in transforming business challenges into scalable data solutions. 
 
 🔍 I enjoy building predictive models, automating workflows, and designing insightful dashboards to empower decision-making. My experience spans across industries, with hands-on expertise in Python, R, SQL, and modern cloud & big data tools.
 
@@ -78,7 +78,7 @@ I leverage this tech stack to build robust data pipelines, create insightful vis
     ---
 # 👩‍💻 Rishitha's Data Science Portfolio
 
-Welcome to my Data Science portfolio! I'm Rishitha, a passionate lifelong learner and problem solver, focused on turning **data into impact** through Machine Learning, AI, and analytics.
+Welcome to my  portfolio! I'm Rishitha, a passionate lifelong learner and problem solver, focused on turning **data into impact** through Machine Learning, AI, and analytics.
 
 This repository is a curated collection of my work across domains—each project reflects both a technical learning milestone and a step toward solving real-world challenges using data.
 
@@ -86,7 +86,10 @@ This repository is a curated collection of my work across domains—each project
 
 ## 🌟 About Me
 
-- 🎓 Currently enhancing my AI/ML
+- 🎓 Currently enhancing my Data Analysis, Business Analysis
+- data analysis projects, dashboards, visualizations
+- Python libraries for interactive graphs and dashboards
+-  Microsoft Excel for data analysis
 
 
 
